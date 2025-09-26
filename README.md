@@ -16,7 +16,3 @@ and teller users.
 5. Run migrations: `python manage.py migrate`
 6. Create superuser: `python manage.py createsuperuser`
 7. Run server: `python manage.py runserver`
-## Technology Stack
-- Django
-- SQLite (can be configured for other databases)
-- HTML/CSS/JavaScript
